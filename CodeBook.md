@@ -92,61 +92,81 @@ unique(dt_tidy$features)
 ====================================
 
 **timeBodyAcceleration.mean.X**
+
 **timeBodyAcceleration.mean.Y**
+
 **timeBodyAcceleration.mean.Z**
 
 mean body acceleration, axis X, Y and Z
 
 **timeBodyAcceleration.std.X**
+
 **timeBodyAcceleration.std.Y**
+
 **timeBodyAcceleration.std.Z**
 
 standard deviation of body acceleration, axis X, Y and Z
 
 **timeGravityAcceleration.mean.X**
+
 **timeGravityAcceleration.mean.Y**
+
 **timeGravityAcceleration.mean.Z**
 
 mean gravity acceleration, axis X, Y and Z
 
 **timeGravityAcceleration.std.X**
+
 **timeGravityAcceleration.std.Y**
+
 **timeGravityAcceleration.std.Z**
 
 standard deviation of gravity acceleration, axis X, Y and Z
 
 **timeBodyAccelerationJerk.mean.X**
+
 **timeBodyAccelerationJerk.mean.Y**
+
 **timeBodyAccelerationJerk.mean.Z**
 
 mean body acceleration, Jerk signals, axis X, Y and Z
 
-**timeBodyAccelerationJerk.std.X**               
+**timeBodyAccelerationJerk.std.X**
+
 **timeBodyAccelerationJerk.std.Y**
+
 **timeBodyAccelerationJerk.std.Z**
 
 standard deviation of body acceleration, Jerk signals, axis X, Y and Z
 
 **timeBodyAngularVelocity.mean.X**
+
 **timeBodyAngularVelocity.mean.Y**
+
 **timeBodyAngularVelocity.mean.Z**
 
 mean body angular velocity, axis X, Y and Z
 
 **timeBodyAngularVelocity.std.X**
+
 **timeBodyAngularVelocity.std.Y**
+
 **timeBodyAngularVelocity.std.Z**
 
 standard deviation of body angular velocity, axis X, Y and Z
 
 **timeBodyAngularVelocityJerk.mean.X**
+
 **timeBodyAngularVelocityJerk.mean.Y**
+
 **timeBodyAngularVelocityJerk.mean.Z**
 
 mean body angular velocity, Jerk signals, axis X, Y and Z
 
-**timeBodyAngularVelocityJerk.std.X**          
+**timeBodyAngularVelocityJerk.std.X**
+
 **timeBodyAngularVelocityJerk.std.Y**
+
 **timeBodyAngularVelocityJerk.std.Z**
 
 standard deviation of body angular velocity, Jerk signals, axis X, Y and Z
@@ -198,37 +218,49 @@ standard deviation of magnitude (Euclidean norm) of body angular velocity, Jerk 
 ====================================
 
 **frequencyBodyAcceleration.mean.X**
+
 **frequencyBodyAcceleration.mean.Y**
+
 **frequencyBodyAcceleration.mean.Z**
 
 mean body acceleration, axis X, Y and Z
 
 **frequencyBodyAcceleration.std.X**
+
 **frequencyBodyAcceleration.std.Y**
+
 **frequencyBodyAcceleration.std.Z**
 
 standard deviation of body acceleration, axis X, Y and Z
 
 **frequencyBodyAccelerationJerk.mean.X**
+
 **frequencyBodyAccelerationJerk.mean.Y**
+
 **frequencyBodyAccelerationJerk.mean.Z**
 
 mean body acceleration, axis X, Y and Z, Jerk signals
 
 **frequencyBodyAccelerationJerk.std.X**
+
 **frequencyBodyAccelerationJerk.std.Y**
+
 **frequencyBodyAccelerationJerk.std.Z**
 
 standard deviation of body acceleration, axis X, Y and Z, Jerk signals
 
 **frequencyBodyAngularVelocity.mean.X**
+
 **frequencyBodyAngularVelocity.mean.Y**
+
 **frequencyBodyAngularVelocity.mean.Z**
 
 mean body angular velocity, axis X, Y and Z, Jerk signals
 
 **frequencyBodyAngularVelocity.std.X**
+
 **frequencyBodyAngularVelocity.std.Y**
+
 **frequencyBodyAngularVelocity.std.Z**
 
 standard deviation of body angular velocity, axis X, Y and Z, Jerk signals
